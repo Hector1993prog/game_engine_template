@@ -1,0 +1,1 @@
+# Manages client-server synchronization
